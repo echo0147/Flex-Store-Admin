@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Aktiv Grotesk";
+  src: url("./assets/Fonts/AktivGrotesk-BlackItalic.ttf");
+}
+body {
+  margin: 0;
+  font-family: "Aktiv Grotesk";
+  background-color: #f6f6f6;
+  height: 100vh;
+}
+
